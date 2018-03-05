@@ -1,0 +1,45 @@
+CorrectChange_Loop Testing Data
+Julia McDonald (jmcdona6)
+
+How much money do you want to make change for?
+48.94
+We can make change for $48.94 using:
+2 $20 bills
+1 $5 bills
+3 $1 bills
+3 quarters
+1 dimes
+1 nickels
+4 pennies
+How much money do you want to make change for?
+11.22
+We can make change for $11.22 using:
+1 $10 bills
+1 $1 bills
+2 dimes
+2 pennies
+How much money do you want to make change for?
+100.00
+We can make change for $100.0 using:
+5 $20 bills
+How much money do you want to make change for?
+100.05
+We can make change for $100.05 using:
+5 $20 bills
+1 nickels
+How much money do you want to make change for?
+0.02
+We can make change for $0.02 using:
+2 pennies
+How much money do you want to make change for?
+350
+We can make change for $350.0 using:
+17 $20 bills
+1 $10 bills
+How much money do you want to make change for?
+22.79
+We can make change for $22.79 using:
+1 $20 bills
+2 $1 bills
+3 quarters
+4 pennies

@@ -1,0 +1,45 @@
+AreaTriangle Testing Data
+Julia McDonald (jmcdona6)
+
+Enter the length of the first side of the triangle: 3
+Enter the length of the second side of the triangle: 4
+Enter the length of the third side of the triangle: 5
+Triangle is NOT iscosceles.
+The area of the triangle is 6.0
+Enter the length of the first side of the triangle: 5.5
+Enter the length of the second side of the triangle: 3.7
+Enter the length of the third side of the triangle: 5.5
+Triangle is isosceles.
+The area of the triangle is 9.582124960049308
+Enter the length of the first side of the triangle: 1
+Enter the length of the second side of the triangle: 1
+Enter the length of the third side of the triangle: 2
+Invalid input
+Enter the length of the first side of the triangle: 1
+Enter the length of the second side of the triangle: 3
+Enter the length of the third side of the triangle: 4
+Invalid input
+Enter the length of the first side of the triangle: 1
+Enter the length of the second side of the triangle: 2
+Enter the length of the third side of the triangle: 3
+Invalid input
+Enter the length of the first side of the triangle: 5
+Enter the length of the second side of the triangle: 8
+Enter the length of the third side of the triangle: 5
+Triangle is isosceles.
+The area of the triangle is 12.0
+Enter the length of the first side of the triangle: 5
+Enter the length of the second side of the triangle: 5
+Enter the length of the third side of the triangle: 8
+Triangle is isosceles.
+The area of the triangle is 12.0
+Enter the length of the first side of the triangle: 8
+Enter the length of the second side of the triangle: 5
+Enter the length of the third side of the triangle: 5
+Triangle is isosceles.
+The area of the triangle is 12.0
+Enter the length of the first side of the triangle: 5
+Enter the length of the second side of the triangle: 12
+Enter the length of the third side of the triangle: 13
+Triangle is NOT iscosceles.
+The area of the triangle is 30.0
